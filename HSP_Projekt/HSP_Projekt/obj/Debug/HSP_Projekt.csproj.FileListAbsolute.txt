@@ -1,0 +1,7 @@
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\bin\Debug\HSP_Projekt.exe.config
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\bin\Debug\HSP_Projekt.exe
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\bin\Debug\HSP_Projekt.pdb
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\obj\Debug\HSP_Projekt.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\obj\Debug\HSP_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\obj\Debug\HSP_Projekt.exe
+C:\Users\hp\Downloads\hsp_projekt\HSP_Projekt\HSP_Projekt\obj\Debug\HSP_Projekt.pdb
